@@ -1,0 +1,107 @@
+[{
+  "_id": {
+    "$oid": "68e28f814a0070fe3533b825"
+  },
+  "courseId": 398,
+  "title": "Python",
+  "description": "Initially composing light-hearted and irreverent works, he also wrote serious, sombre and religious pieces beginning in the 1930s.",
+  "instructorId": "EDU1012",
+  "category": "Python",
+  "level": "advanced",
+  "price": "$30",
+  "tag": "Basics",
+  "createdAt": {
+    "$date": "2025-10-05T08:17:58.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:17:58.012Z"
+  },
+  "isPublished": true,
+  "rating": 2
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b83c"
+  },
+  "title": "Machine Learning 101",
+  "category": "Data Science",
+  "tag": "AI"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b83d"
+  },
+  "title": "Web Development",
+  "category": "Programming",
+  "tag": "HTML"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b83e"
+  },
+  "title": "Python",
+  "category": "Python",
+  "tag": "Basics"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b83f"
+  },
+  "title": "Data Science",
+  "category": "Data Science",
+  "tag": "DS"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b840"
+  },
+  "title": "Graphic Design",
+  "category": "Design",
+  "tag": "Illustrator"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b841"
+  },
+  "title": "Cybersecurity",
+  "category": "IT & Software",
+  "tag": "Security"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b842"
+  },
+  "title": "Project Management",
+  "category": "Business",
+  "tag": "Agile"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b843"
+  },
+  "title": "Data Analysis with Excel",
+  "category": "Data Science",
+  "tag": "Excel"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a9"
+  },
+  "courseId": "C001",
+  "title": "Python for Beginners",
+  "category": "Programming",
+  "level": "Beginner",
+  "price": 100,
+  "tag": [
+    "Python",
+    "Programming"
+  ],
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.869Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.869Z"
+  },
+  "isPublished": true,
+  "instructorId": "EDU1021"
+}]

@@ -1,0 +1,222 @@
+[{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b844"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.518Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.518Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1017",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b845"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.523Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.523Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1010",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b846"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.527Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.527Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1004",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b847"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.530Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.530Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1004",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b848"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.534Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.534Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1015",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b849"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.537Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.537Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1004",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b84a"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.540Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.540Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1015",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b84b"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.543Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.543Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1014",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b84c"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.545Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.545Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1017",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b84d"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.548Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.548Z"
+  },
+  "courseId": 398,
+  "studentId": "EDU1017",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b84e"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.553Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.553Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1006",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b84f"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.556Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.556Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1013",
+  "status": "In_Progress"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b850"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.558Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.558Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1006",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b851"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.560Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.560Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1020",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b852"
+  },
+  "startDate": {
+    "$date": "2025-10-05T08:34:32.562Z"
+  },
+  "endDate": {
+    "$date": "2026-09-06T08:34:32.562Z"
+  },
+  "courseId": null,
+  "studentId": "EDU1017",
+  "status": "Completed"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8aa"
+  },
+  "enrollmentId": "E001",
+  "userId": "EDU1022",
+  "courseId": "C001",
+  "status": "Enrolled",
+  "enrolledAt": {
+    "$date": "2025-10-05T08:34:32.870Z"
+  }
+}]

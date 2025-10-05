@@ -1,0 +1,192 @@
+[{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b89b"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b88f"
+  },
+  "studentId": "EDU1017",
+  "courseId": null,
+  "content": "Do you come here often?",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "Atoms can contain any character if they are enclosed within single quotes and an escape convention exists which allows any character to be used within an atom.",
+  "isSubmitted": true
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b89c"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b890"
+  },
+  "studentId": "EDU1008",
+  "courseId": null,
+  "content": "Tuples are containers for a fixed number of Erlang data types.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "Make me a sandwich.",
+  "isSubmitted": true
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b89d"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b891"
+  },
+  "studentId": "EDU1017",
+  "courseId": null,
+  "content": "They are written as strings of consecutive alphanumeric characters, the first character being lowercase.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "The Galactic Empire is nearing completion of the Death Star, a space station with the power to destroy entire planets.",
+  "isSubmitted": false
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b89e"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b892"
+  },
+  "studentId": "EDU1014",
+  "courseId": null,
+  "content": "Do you have any idea why this is not working?",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "In 1989 the building was heavily damaged by fire, but it has since been restored.",
+  "isSubmitted": false
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b89f"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b893"
+  },
+  "studentId": "EDU1008",
+  "courseId": 398,
+  "content": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "It is also a garbage-collected runtime system.",
+  "isSubmitted": false
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a0"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b894"
+  },
+  "studentId": "EDU1005",
+  "courseId": null,
+  "content": "Erlang is a general-purpose, concurrent, functional programming language.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "It is also a garbage-collected runtime system.",
+  "isSubmitted": false
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a1"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b895"
+  },
+  "studentId": "EDU1014",
+  "courseId": 398,
+  "content": "Tuples are containers for a fixed number of Erlang data types.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "I don't even care.",
+  "isSubmitted": true
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a2"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b896"
+  },
+  "studentId": "EDU1006",
+  "courseId": null,
+  "content": "I don't even care.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "I don't even care.",
+  "isSubmitted": false
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a3"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b897"
+  },
+  "studentId": "EDU1004",
+  "courseId": null,
+  "content": "Any element of a tuple can be accessed in constant time.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.794Z"
+  },
+  "feedback": "Tuples are containers for a fixed number of Erlang data types.",
+  "isSubmitted": true
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a4"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b898"
+  },
+  "studentId": "EDU1015",
+  "courseId": null,
+  "content": "Erlang is a general-purpose, concurrent, functional programming language.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.795Z"
+  },
+  "feedback": "He looked inquisitively at his keyboard and wrote another sentence.",
+  "isSubmitted": false
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a5"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b899"
+  },
+  "studentId": "EDU1020",
+  "courseId": null,
+  "content": "It is also a garbage-collected runtime system.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.795Z"
+  },
+  "feedback": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.",
+  "isSubmitted": true
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a6"
+  },
+  "submissionId": {
+    "$oid": "68e290084a0070fe3533b89a"
+  },
+  "studentId": "EDU1005",
+  "courseId": null,
+  "content": "Haskell features a type system with type inference and lazy evaluation.",
+  "submissionDate": {
+    "$date": "2025-10-05T08:34:32.795Z"
+  },
+  "feedback": "Erlang is a general-purpose, concurrent, functional programming language.",
+  "isSubmitted": true
+}]

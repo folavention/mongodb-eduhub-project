@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b885"
+  },
+  "studentId": "EDU1013",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b863"
+  },
+  "description": "She spent her earliest years reading classic literature, and writing poetry.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "A"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b886"
+  },
+  "studentId": "EDU1006",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85b"
+  },
+  "description": "Its main implementation is the Glasgow Haskell Compiler.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "D"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b887"
+  },
+  "studentId": "EDU1014",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b861"
+  },
+  "description": "Tuples are containers for a fixed number of Erlang data types.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "F"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b888"
+  },
+  "studentId": "EDU1010",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b868"
+  },
+  "description": "I don't even care.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "D"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b889"
+  },
+  "studentId": "EDU1017",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85e"
+  },
+  "description": "Ports are used to communicate with the external world.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "C"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b88a"
+  },
+  "studentId": "EDU1022",
+  "courseId": 398,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b868"
+  },
+  "description": "Where are my pants?",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "F"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b88b"
+  },
+  "studentId": "EDU1006",
+  "courseId": 398,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b866"
+  },
+  "description": "I don't even care.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "B"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b88c"
+  },
+  "studentId": "EDU1014",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b863"
+  },
+  "description": "Type classes first appeared in the Haskell programming language.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "B"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b88d"
+  },
+  "studentId": "EDU1013",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85e"
+  },
+  "description": "Do you have any idea why this is not working?",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "D"
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b88e"
+  },
+  "studentId": "EDU1022",
+  "courseId": null,
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b859"
+  },
+  "description": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.",
+  "dueDate": {
+    "$date": "2025-10-05T08:34:32.713Z"
+  },
+  "assignment_grades": "B"
+}]

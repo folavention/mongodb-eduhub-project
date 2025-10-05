@@ -1,0 +1,566 @@
+[{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b86c"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b853"
+  },
+  "courseId": null,
+  "title": "Python Programming Basics",
+  "content": "Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.",
+  "videoUrl": "downloads/videos/transfers-society-mounted-intent-nj-managed-colorado-apartments.mp4",
+  "resources": [
+    "downloads/resources/instrument-student-equally.pdf"
+  ],
+  "duration": "47minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.619Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.619Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b86d"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b854"
+  },
+  "courseId": null,
+  "title": "Web Development with HTML/CSS",
+  "content": "The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.",
+  "videoUrl": "downloads/videos/hi-disaster-links-carriers-water-reform-servers-members-ss-accessories-buyer.mp4",
+  "resources": [
+    "downloads/resources/eat-arguments-albert-lan-density-chief-territory.pdf"
+  ],
+  "duration": "25minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.621Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.621Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b86e"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b855"
+  },
+  "courseId": null,
+  "title": "Graphic Design with Adobe Illustrator",
+  "content": "The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.",
+  "videoUrl": "downloads/videos/face-wealth-na-hundreds-awesome-river-houses-quebec-crack-television-bedding-facing.mp4",
+  "resources": [
+    "downloads/resources/rt-cross-warning.pdf"
+  ],
+  "duration": "27minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.623Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b86f"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b856"
+  },
+  "courseId": 398,
+  "title": "Graphic Design with Adobe Illustrator",
+  "content": "Ports are created with the built-in function open_port.",
+  "videoUrl": "downloads/videos/drama-jean-responsibility-repair-friday-dollars.mp4",
+  "resources": [
+    "downloads/resources/ee-potter.pdf"
+  ],
+  "duration": "12minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.624Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.624Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b870"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b857"
+  },
+  "courseId": null,
+  "title": "Web Development with HTML/CSS",
+  "content": "Haskell features a type system with type inference and lazy evaluation.",
+  "videoUrl": "downloads/videos/base-hold-lake-charge-plane-relative-perfectly-contents.mp4",
+  "resources": [
+    "downloads/resources/shut-sep-mouse.pdf"
+  ],
+  "duration": "36minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.626Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.626Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b871"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b858"
+  },
+  "courseId": null,
+  "title": "Digital Marketing Tools",
+  "content": "Where are my pants?",
+  "videoUrl": "downloads/videos/lens-guide-payment.mp4",
+  "resources": [
+    "downloads/resources/southern-evil-transportation-within-regulation-found.pdf"
+  ],
+  "duration": "22minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.627Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b872"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b859"
+  },
+  "courseId": null,
+  "title": "Web Development with HTML/CSS",
+  "content": "The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.",
+  "videoUrl": "downloads/videos/dental-submission.mp4",
+  "resources": [
+    "downloads/resources/sr-important-empty-scripts-heights.pdf"
+  ],
+  "duration": "43minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.628Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b873"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85a"
+  },
+  "courseId": null,
+  "title": "Social Media Marketing Strategies",
+  "content": "The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.",
+  "videoUrl": "downloads/videos/himself-switzerland-temp.mp4",
+  "resources": [
+    "downloads/resources/decision-trying-slideshow.pdf"
+  ],
+  "duration": "13minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.629Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b874"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85b"
+  },
+  "courseId": null,
+  "title": "Basic Concepts of Machine Learning",
+  "content": "They are written as strings of consecutive alphanumeric characters, the first character being lowercase.",
+  "videoUrl": "downloads/videos/bathroom-thumbs-approximately-luxury-sci-daily-strange-bankruptcy-situation-gulf-illness.mp4",
+  "resources": [
+    "downloads/resources/relationships-maintaining-may-private-supplies.pdf"
+  ],
+  "duration": "52minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.630Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.630Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b875"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85c"
+  },
+  "courseId": null,
+  "title": "Advanced Machine Learning Techniques",
+  "content": "Ports are used to communicate with the external world.",
+  "videoUrl": "downloads/videos/encourage-felt-nearest-poster.mp4",
+  "resources": [
+    "downloads/resources/toner-showing-podcast-folder-legislature-alive-environmental-transactions-res.pdf"
+  ],
+  "duration": "17minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.632Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b876"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85d"
+  },
+  "courseId": null,
+  "title": "Advanced Machine Learning Techniques",
+  "content": "Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.",
+  "videoUrl": "downloads/videos/hospitals-thing-exercises-vision-see-begins-franchise-pack.mp4",
+  "resources": [
+    "downloads/resources/adapter-be-illinois-humans-graphics-whatever-birthday-claims-recognition-districts.pdf"
+  ],
+  "duration": "10minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.634Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b877"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85e"
+  },
+  "courseId": null,
+  "title": "Cybersecurity Fundamentals",
+  "content": "Ports are used to communicate with the external world.",
+  "videoUrl": "downloads/videos/adam-ordered-terms-queen-solid-php-selling-seattle-adoption.mp4",
+  "resources": [
+    "downloads/resources/tree-loading-puzzle-bang-torture-profit-jump-narrow-regards-graduate-concepts-weapons.pdf"
+  ],
+  "duration": "52minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.635Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b878"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b85f"
+  },
+  "courseId": null,
+  "title": "Basic Concepts of Machine Learning",
+  "content": "Erlang is a general-purpose, concurrent, functional programming language.",
+  "videoUrl": "downloads/videos/reform-prev-rights-trail-fig-scale-marriage-lighting.mp4",
+  "resources": [
+    "downloads/resources/requests-connected-fortune-km-ride-ram-constitutional-rings-worse-accessibility.pdf"
+  ],
+  "duration": "15minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.637Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.637Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b879"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b860"
+  },
+  "courseId": null,
+  "title": "Content Marketing Strategies",
+  "content": "They are written as strings of consecutive alphanumeric characters, the first character being lowercase.",
+  "videoUrl": "downloads/videos/relatively-physical-summary-consumers-mid-engine-aa-dennis-know-daily-difficulties-lived.mp4",
+  "resources": [
+    "downloads/resources/exercise-forever-extent-pending-airline-believed-program-fr-diagnostic.pdf"
+  ],
+  "duration": "43minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.638Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b87a"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b861"
+  },
+  "courseId": null,
+  "title": "Data Science with Python",
+  "content": "The sequential subset of Erlang supports eager evaluation, single assignment, and dynamic typing.",
+  "videoUrl": "downloads/videos/cricket-server-kill-positive-months-reflect.mp4",
+  "resources": [
+    "downloads/resources/te-across-orchestra-sales-findings.pdf"
+  ],
+  "duration": "56minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.640Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.640Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b87b"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b862"
+  },
+  "courseId": 398,
+  "title": "Agile Project Management",
+  "content": "Make me a sandwich.",
+  "videoUrl": "downloads/videos/presidential-automatically-public-samuel-secured-begin-nov-pointer-vital-democracy.mp4",
+  "resources": [
+    "downloads/resources/determine-lifetime-success-veterans-others-smile-cleaning-instructions.pdf"
+  ],
+  "duration": "48minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.642Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.642Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b87c"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b863"
+  },
+  "courseId": null,
+  "title": "Web Development with HTML/CSS",
+  "content": "She spent her earliest years reading classic literature, and writing poetry.",
+  "videoUrl": "downloads/videos/really-eur-obviously.mp4",
+  "resources": [
+    "downloads/resources/framed-charged-constitutes-hold-round.pdf"
+  ],
+  "duration": "32minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.643Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.643Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b87d"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b864"
+  },
+  "courseId": null,
+  "title": "Social Media Marketing Strategies",
+  "content": "Messages can be sent to and received from ports, but these messages must obey the so-called \"port protocol.\"",
+  "videoUrl": "downloads/videos/patch-reality-barry-edwards-returned-images-illegal-otherwise-script-event-facial-visual.mp4",
+  "resources": [
+    "downloads/resources/supervisor-horizontal-moon-on-closed-sections-sounds-webmaster-preliminary-fort-certification-experiences.pdf"
+  ],
+  "duration": "50minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.644Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.644Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b87e"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b865"
+  },
+  "courseId": null,
+  "title": "Network Security Basics",
+  "content": "Any element of a tuple can be accessed in constant time.",
+  "videoUrl": "downloads/videos/organization-levels-foster-targeted-limit-progressive-rent-early-surveys-ak.mp4",
+  "resources": [
+    "downloads/resources/franklin-walls-different-representative-shown-mortgages-festival-identity-committed-today-zus-movies.pdf"
+  ],
+  "duration": "26minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b87f"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b866"
+  },
+  "courseId": null,
+  "title": "Python Programming Basics",
+  "content": "He looked inquisitively at his keyboard and wrote another sentence.",
+  "videoUrl": "downloads/videos/reasons-lifestyle-he-mean-eric-smooth-load.mp4",
+  "resources": [
+    "downloads/resources/said-bear-addressed-lawn.pdf"
+  ],
+  "duration": "55minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.645Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b880"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b867"
+  },
+  "courseId": null,
+  "title": "Data Science with Python",
+  "content": "She spent her earliest years reading classic literature, and writing poetry.",
+  "videoUrl": "downloads/videos/layout-toner-fourth-working-mobility-tells-fotos-been-conversion-material-soon-aol.mp4",
+  "resources": [
+    "downloads/resources/census-cape-generate-ref-paris-bags-honor-even.pdf"
+  ],
+  "duration": "58minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.646Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.646Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b881"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b868"
+  },
+  "courseId": null,
+  "title": "Basic Concepts of Machine Learning",
+  "content": "Erlang is known for its designs that are well suited for systems.",
+  "videoUrl": "downloads/videos/determine-feel-potentially-honda.mp4",
+  "resources": [
+    "downloads/resources/database-biology-spray-cultures-cause-outlet-chemical-mb-once-continued-rock.pdf"
+  ],
+  "duration": "43minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.648Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.648Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b882"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b869"
+  },
+  "courseId": null,
+  "title": "Graphic Design with Adobe Illustrator",
+  "content": "Atoms can contain any character if they are enclosed within single quotes and an escape convention exists which allows any character to be used within an atom.",
+  "videoUrl": "downloads/videos/overall-twenty-ibm-event-making-versus-working-brochure-charlotte-presidential.mp4",
+  "resources": [
+    "downloads/resources/toy-publishing-lights.pdf"
+  ],
+  "duration": "22minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.650Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.650Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b883"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b86a"
+  },
+  "courseId": null,
+  "title": "Basic Concepts of Machine Learning",
+  "content": "Do you have any idea why this is not working?",
+  "videoUrl": "downloads/videos/jurisdiction-municipal-printed-counter-islam.mp4",
+  "resources": [
+    "downloads/resources/classics-losses-personnel.pdf"
+  ],
+  "duration": "18minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.652Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.652Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b884"
+  },
+  "lessonId": {
+    "$oid": "68e290084a0070fe3533b86b"
+  },
+  "courseId": 398,
+  "title": "Project Management Essentials",
+  "content": "They are written as strings of consecutive alphanumeric characters, the first character being lowercase.",
+  "videoUrl": "downloads/videos/hair-cache-img-madison-holdings-gonna.mp4",
+  "resources": [
+    "downloads/resources/buttons-unlike-writing.pdf"
+  ],
+  "duration": "48minutes",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.654Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.654Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8ab"
+  },
+  "lessonId": "L001",
+  "courseId": "C001",
+  "title": "Introduction to Python",
+  "description": "Learn the basics of Python programming",
+  "content": "Lesson content goes here...",
+  "createdAt": {
+    "$date": "2025-10-05T08:34:32.870Z"
+  },
+  "updatedAt": {
+    "$date": "2025-10-05T08:34:32.870Z"
+  }
+}]

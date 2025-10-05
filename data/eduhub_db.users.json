@@ -1,0 +1,548 @@
+[{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b828"
+  },
+  "userId": "EDU1013",
+  "email": "sophiaa13@eduhub.com",
+  "first_name": "Sophia",
+  "last_name": "Adewale",
+  "roles": "student",
+  "grades": [
+    85,
+    96,
+    88,
+    89,
+    93,
+    79,
+    62
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.365Z"
+  },
+  "profile": {
+    "bio": "Sophia is a dedicated student and Atoms are used within a program to denote distinguished values.",
+    "avatar": "downloads/pictures/village-rivers-expense.png",
+    "skills": "Database Management",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b829"
+  },
+  "userId": "EDU1010",
+  "email": "johnr98@eduhub.com",
+  "first_name": "John",
+  "last_name": "Frank",
+  "roles": "student",
+  "grades": [
+    85,
+    80,
+    82,
+    99,
+    82,
+    75,
+    95
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "John is a dedicated student and Its main implementation is the Glasgow Haskell Compiler.",
+    "avatar": "downloads/pictures/early-sorry-html-detected-headlines-grand-known-mature-caused.png",
+    "skills": "JavaScript",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b82a"
+  },
+  "userId": "EDU1005",
+  "email": "sophiav11@eduhub.com",
+  "first_name": "Sophia",
+  "last_name": "David",
+  "roles": "student",
+  "grades": [
+    68,
+    54,
+    100,
+    51,
+    85,
+    98
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Sophia is a dedicated student and It is also a garbage-collected runtime system.",
+    "avatar": "downloads/pictures/los-terrorist-cancer-east-ky-thin-ranking-county-love-comply-codes.png",
+    "skills": [
+      "Good Communication",
+      "Critical Thinking",
+      "Team Work"
+    ],
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b82b"
+  },
+  "userId": "EDU1020",
+  "email": "chiderau38@eduhub.com",
+  "first_name": "Chidera",
+  "last_name": "Usman",
+  "roles": "student",
+  "grades": [
+    81,
+    96,
+    76,
+    88,
+    61,
+    63
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Chidera is a dedicated student and Initially composing light-hearted and irreverent works, he also wrote serious, sombre and religious pieces beginning in the 1930s.",
+    "avatar": "downloads/pictures/statement-viewed-matching-searching-depression-effectively-industrial-affiliate-applied-audio-donation.png",
+    "skills": "Data Analysis",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b82c"
+  },
+  "userId": "EDU1004",
+  "email": "piuse29@eduhub.com",
+  "first_name": "Pius",
+  "last_name": "Efe",
+  "roles": "student",
+  "grades": [
+    51,
+    75,
+    50,
+    64
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Pius is a dedicated student and The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.",
+    "avatar": "downloads/pictures/season-joe-our-mrs-pace-ultra-hardware-cancer-references-strings-alcohol-recorder.png",
+    "skills": "JavaScript",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b82d"
+  },
+  "userId": "EDU1017",
+  "email": "danield35@eduhub.com",
+  "first_name": "Daniel",
+  "last_name": "Adekunle",
+  "roles": "student",
+  "grades": [
+    100,
+    52,
+    72,
+    82,
+    71
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Daniel is a dedicated student and In 1989 the building was heavily damaged by fire, but it has since been restored.",
+    "avatar": "downloads/pictures/contests-illness-de-died-submission-murder-javascript.png",
+    "skills": "Database Management",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b82e"
+  },
+  "userId": "EDU1006",
+  "email": "emilyh45@eduhub.com",
+  "first_name": "Emily",
+  "last_name": "Smith",
+  "roles": "student",
+  "grades": [
+    66,
+    92,
+    74,
+    54,
+    87,
+    51,
+    53
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Emily is a dedicated student and Erlang is a general-purpose, concurrent, functional programming language.",
+    "avatar": "downloads/pictures/bi-phd-rice.png",
+    "skills": "Public Speaking",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b82f"
+  },
+  "userId": "EDU1015",
+  "email": "piusw72@eduhub.com",
+  "first_name": "Pius",
+  "last_name": "Brown",
+  "roles": "student",
+  "grades": [
+    91,
+    69,
+    86,
+    50,
+    53,
+    90
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Pius is a dedicated student and Its main implementation is the Glasgow Haskell Compiler.",
+    "avatar": "downloads/pictures/processed-zip-marine-transport.png",
+    "skills": "Data Analysis",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b830"
+  },
+  "userId": "EDU1014",
+  "email": "kabirum85@eduhub.com",
+  "first_name": "Kabiru",
+  "last_name": "Smith",
+  "roles": "student",
+  "grades": [
+    56,
+    93,
+    55,
+    58,
+    85,
+    96
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Kabiru is a dedicated student and The syntax {D1,D2,...,Dn} denotes a tuple whose arguments are D1, D2, ... Dn.",
+    "avatar": "downloads/pictures/conduct-degree-after-genetics.png",
+    "skills": "JavaScript",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b831"
+  },
+  "userId": "EDU1008",
+  "email": "charlesm34@eduhub.com",
+  "first_name": "Charles",
+  "last_name": "Thomas",
+  "roles": "student",
+  "grades": [
+    59,
+    81,
+    65,
+    60,
+    100
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Charles is a dedicated student and It is also a garbage-collected runtime system.",
+    "avatar": "downloads/pictures/tried-smith.png",
+    "skills": "JavaScript",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b832"
+  },
+  "userId": "EDU1006",
+  "email": "kabirus35@eduhub.com",
+  "first_name": "Kabiru",
+  "last_name": "Smith",
+  "roles": "student",
+  "grades": [
+    81,
+    95,
+    69,
+    56,
+    61
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Kabiru is a dedicated student and Its main implementation is the Glasgow Haskell Compiler.",
+    "avatar": "downloads/pictures/useful-alliance-changing-wings-canon-purple-hero.png",
+    "skills": "Data Analysis",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b833"
+  },
+  "userId": "EDU1017",
+  "email": "johnu50@eduhub.com",
+  "first_name": "John",
+  "last_name": "Usman",
+  "roles": "student",
+  "grades": [
+    66,
+    64,
+    81,
+    68
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "John is a dedicated student and Erlang is a general-purpose, concurrent, functional programming language.",
+    "avatar": "downloads/pictures/google-creative-pdf-fr-engineer-themes-simpson-senate-soft-via.png",
+    "skills": "JavaScript",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b834"
+  },
+  "userId": "EDU1004",
+  "email": "johno98@eduhub.com",
+  "first_name": "John",
+  "last_name": "Okafor",
+  "roles": "student",
+  "grades": [
+    75,
+    72,
+    83,
+    75
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "John is a dedicated student and They are written as strings of consecutive alphanumeric characters, the first character being lowercase.",
+    "avatar": "downloads/pictures/resistance-show.png",
+    "skills": "JavaScript",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b835"
+  },
+  "userId": "EDU1020",
+  "email": "danielu14@eduhub.com",
+  "first_name": "Daniel",
+  "last_name": "Chidubem",
+  "roles": "student",
+  "grades": [
+    90,
+    70,
+    70,
+    77,
+    82,
+    80
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Daniel is a dedicated student and Make me a sandwich.",
+    "avatar": "downloads/pictures/berlin-classroom-ba-trials-emails-emotional-associates-laid-performing-elizabeth-su-classic.png",
+    "skills": "Teaching",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b836"
+  },
+  "userId": "EDU1014",
+  "email": "sophiae53@eduhub.com",
+  "first_name": "Sophia",
+  "last_name": "Efe",
+  "roles": "student",
+  "grades": [
+    57,
+    95,
+    88,
+    61,
+    58,
+    94
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Sophia is a dedicated student and Its main implementation is the Glasgow Haskell Compiler.",
+    "avatar": "downloads/pictures/gary-ethnic.png",
+    "skills": "Web Development",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b837"
+  },
+  "userId": "EDU1008",
+  "email": "danielk74@eduhub.com",
+  "first_name": "Daniel",
+  "last_name": "Adekunle",
+  "roles": "student",
+  "grades": [
+    97,
+    63,
+    89,
+    55
+  ],
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.369Z"
+  },
+  "profile": {
+    "bio": "Daniel is a dedicated student and Erlang is a general-purpose, concurrent, functional programming language.",
+    "avatar": "downloads/pictures/radiation-species-unique-chris-td-rd-states-cleaner.png",
+    "skills": "Machine Learning",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b838"
+  },
+  "userId": "EDU1016",
+  "email": "oliviam82@eduhub.com",
+  "first_name": "Olivia",
+  "last_name": "Smith",
+  "roles": "instructor",
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.371Z"
+  },
+  "profile": {
+    "bio": "Olivia is a dedicated instructor and Haskell is a standardized, general-purpose purely functional programming language, with non-strict semantics and strong static typing.",
+    "avatar": "downloads/pictures/drew-london-damage-colleges.png",
+    "skills": "Web Development",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b839"
+  },
+  "userId": "EDU1016",
+  "email": "kabirul88@eduhub.com",
+  "first_name": "Kabiru",
+  "last_name": "Stanley",
+  "roles": "instructor",
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.371Z"
+  },
+  "profile": {
+    "bio": "Kabiru is a dedicated instructor and I don't even care.",
+    "avatar": "downloads/pictures/writes-guns-cartoons-entity-libraries-ties-ftp-nursing-hybrid-supporting-artwork.png",
+    "skills": "Web Development",
+    "IsActive": false
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b83a"
+  },
+  "userId": "EDU1016",
+  "email": "kabirua10@eduhub.com",
+  "first_name": "Kabiru",
+  "last_name": "Thomas",
+  "roles": "instructor",
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.371Z"
+  },
+  "profile": {
+    "bio": "Kabiru is a dedicated instructor and Haskell features a type system with type inference and lazy evaluation.",
+    "avatar": "downloads/pictures/purple-launch-belgium-presentations-parish-we-sharing-fees-sunday-rv-perspective-because.png",
+    "skills": "Database Management",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b83b"
+  },
+  "userId": "EDU1016",
+  "email": "oliviaj72@eduhub.com",
+  "first_name": "Olivia",
+  "last_name": "Jones",
+  "roles": "instructor",
+  "dateJoined": {
+    "$date": "2026-04-19T08:34:32.372Z"
+  },
+  "profile": {
+    "bio": "Olivia is a dedicated instructor and He looked inquisitively at his keyboard and wrote another sentence.",
+    "avatar": "downloads/pictures/location-lawn-easier-gordon-definitely-raise-already-experience-grove-activities-belgium-index.png",
+    "skills": "Web Development",
+    "IsActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a7"
+  },
+  "userId": "EDU1022",
+  "first_name": "Jessica",
+  "last_name": "Martins",
+  "email": "jessmar81@eduhub.com",
+  "roles": "student",
+  "grades": [
+    88,
+    92,
+    79
+  ],
+  "dateJoined": {
+    "$date": "2025-10-05T08:34:32.869Z"
+  },
+  "profile": {
+    "bio": "Hardworking student",
+    "avatar": "path/to/avatar.jpg",
+    "skills": "Python",
+    "isActive": true
+  }
+},
+{
+  "_id": {
+    "$oid": "68e290084a0070fe3533b8a8"
+  },
+  "userId": "EDU1021",
+  "first_name": "Jackson",
+  "last_name": "Smith",
+  "email": "john.smith@example.com",
+  "roles": "instructor",
+  "grades": [],
+  "dateJoined": {
+    "$date": "2025-10-05T08:34:32.869Z"
+  },
+  "profile": {
+    "bio": "Experienced instructor",
+    "avatar": "path/to/avatar.jpg",
+    "skills": "Machine Learning",
+    "isActive": true
+  }
+}]
